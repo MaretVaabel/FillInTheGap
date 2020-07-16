@@ -1,0 +1,40 @@
+header{
+display: table;
+width: 100%;
+height: calc(70vh - 500px);
+text-align:center;
+}
+
+main{
+  display:table;
+  text-align:justify;
+  padding:10px;
+}
+p {
+  font-size:16px;
+  letter-spacing:2px;
+  line-height:2;
+
+}
+span{
+  white-space: nowrap;
+}
+input{
+  font-size:16px;
+  width: 35px;
+  text-align:center;
+  margin:3px;
+  }
+
+footer{
+width: 100%;
+text-align:center;
+}
+button{
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 14px;
+}
+#kokku{
+  padding:20px;
+}
